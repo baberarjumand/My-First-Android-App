@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First Android App</string>
+    <string name="choose">Choose a monster</string>
+    <string name="my_favorite_monster">My favorite monster</string>
+</resources>
